@@ -1,2 +1,2 @@
-# presentations
-The lecture slides and project/course presentations are kept here
+# Presentations
+The final project and mini-project presentations are kept here
